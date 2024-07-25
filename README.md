@@ -74,6 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/omar-ellafy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [Your GitHub Profile](https://github.com/OmarHamdi11)
+- Email: [your-email@example.com](mailto:omarellafy1@gmail.com)
